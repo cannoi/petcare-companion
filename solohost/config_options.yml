@@ -1,0 +1,7 @@
+title: "PetCare Companion"
+eyebrow: SoloHost App
+description: "Tạo cho tôi app chăm sóc thú cưng"
+footer_hint: Ready to run on Pi Desktop SoloHost.
+output_file: .env
+after_save: Saved. Start the app from SoloHost.
+fields: []
